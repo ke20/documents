@@ -1,0 +1,282 @@
+[
+    {
+      "id": "ff4dcf1c-7d9b-43ed-9f79-e1fa4204afa1",
+      "type": "signature",
+      "x": 66,
+      "y": 424,
+      "width": 184,
+      "height": 80,
+      "page": 4,
+      "name": "signature du prestataire"
+    },
+    {
+      "id": "f66ee361-2881-4ad7-a689-823542d1598a",
+      "type": "signature",
+      "x": 357,
+      "y": 420,
+      "width": 184,
+      "height": 80,
+      "page": 4,
+      "name": "signature du client"
+    },
+    {
+      "id": "8ab34776-4910-48ce-be02-242bcdafe495",
+      "type": "text",
+      "x": 112,
+      "y": 291,
+      "width": 148,
+      "height": 18,
+      "page": 1,
+      "name": "nom du prestataire"
+    },
+    {
+      "id": "e71cd69c-f722-4d31-b389-3760ad1b6fd5",
+      "type": "text",
+      "x": 265,
+      "y": 306,
+      "width": 83,
+      "height": 18,
+      "page": 1,
+      "name": "capital social de la société de prestation"
+    },
+    {
+      "id": "f92797bf-2b6f-4caf-99d5-00a8edbdd953",
+      "type": "text",
+      "x": 374,
+      "y": 291,
+      "width": 83,
+      "height": 18,
+      "page": 1,
+      "name": "nom de la société de prestation"
+    },
+    {
+      "id": "a1a64486-74a5-4360-aa15-bd2709c2696f",
+      "type": "text",
+      "x": 92,
+      "y": 321,
+      "width": 146,
+      "height": 18,
+      "page": 1,
+      "name": "adresse de la société de prestation"
+    },
+    {
+      "id": "445b28b8-8b76-44ca-8223-78af71c75c4d",
+      "type": "text",
+      "x": 86,
+      "y": 339,
+      "width": 113,
+      "height": 18,
+      "page": 1,
+      "name": "catégorie de la société de prestation"
+    },
+    {
+      "id": "2def2fba-b001-4201-9955-c7ab6521f66b",
+      "type": "text",
+      "x": 283,
+      "y": 340,
+      "width": 113,
+      "height": 18,
+      "page": 1,
+      "name": "numéro de registre de la société de prestation"
+    },
+    {
+      "id": "8b6f27eb-bb8d-4458-b49e-604dc32b5b7e",
+      "type": "text",
+      "x": 108,
+      "y": 423,
+      "width": 148,
+      "height": 18,
+      "page": 1,
+      "name": "nom du client"
+    },
+    {
+      "id": "61958516-c13f-4570-9f47-8b55b9d09c13",
+      "type": "text",
+      "x": 229,
+      "y": 441,
+      "width": 83,
+      "height": 18,
+      "page": 1,
+      "name": "capital social de la société du client"
+    },
+    {
+      "id": "cd035961-50c8-4d08-95c6-4e0b278b4925",
+      "type": "text",
+      "x": 359,
+      "y": 425,
+      "width": 83,
+      "height": 18,
+      "page": 1,
+      "name": "nom de la société du client"
+    },
+    {
+      "id": "72ff6641-49b9-454f-bd87-7e75402ed2d7",
+      "type": "text",
+      "x": 88,
+      "y": 453,
+      "width": 146,
+      "height": 18,
+      "page": 1,
+      "name": "adresse de la société du client"
+    },
+    {
+      "id": "30a06249-d99f-4bca-8ceb-559ab29e9565",
+      "type": "text",
+      "x": 82,
+      "y": 471,
+      "width": 113,
+      "height": 18,
+      "page": 1,
+      "name": "catégorie de la société du client"
+    },
+    {
+      "id": "fef97735-fba1-484d-8b8b-3c3508316a49",
+      "type": "text",
+      "x": 279,
+      "y": 471,
+      "width": 113,
+      "height": 18,
+      "page": 1,
+      "name": "numéro de registre de la société du client"
+    },
+    {
+      "id": "3e3fff9d-a803-418f-a805-096f663b024c",
+      "type": "text",
+      "x": 70,
+      "y": 109,
+      "width": 452,
+      "height": 88,
+      "page": 2,
+      "name": "objet de la mission de prestation de service"
+    },
+    {
+      "id": "c0a4c298-29b0-4640-bf44-4eac06094e75",
+      "type": "text",
+      "x": 341,
+      "y": 232,
+      "width": 65,
+      "height": 18,
+      "page": 2,
+      "name": "Durée du contrat de prestation (jour, mois ou années)"
+    },
+    {
+      "id": "ec7520d3-b19f-48e9-94a8-5d2e1b3db835",
+      "type": "text",
+      "x": 130,
+      "y": 253,
+      "width": 55,
+      "height": 18,
+      "page": 2,
+      "name": "date de début du contrat de prestation"
+    },
+    {
+      "id": "560505db-864e-4977-a8bf-0b3f5997ea25",
+      "type": "text",
+      "x": 277,
+      "y": 254,
+      "width": 55,
+      "height": 18,
+      "page": 2,
+      "name": "date de fin du contrat de prestation"
+    },
+    {
+      "id": "513d2831-0cb8-4fde-a96e-c099c216a0b1",
+      "type": "text",
+      "x": 193,
+      "y": 636,
+      "width": 94,
+      "height": 18,
+      "page": 2,
+      "name": "montant total de la prestation"
+    },
+    {
+      "id": "0e40e2b4-5f9d-4f8f-b37a-89cc59a8ca19",
+      "type": "text",
+      "x": 60,
+      "y": 656,
+      "width": 51,
+      "height": 18,
+      "page": 2,
+      "name": "pourcentage du montant versé à la signature"
+    },
+    {
+      "id": "cc94c44a-3bcf-452a-b8a8-89c3b00d135d",
+      "type": "text",
+      "x": 127,
+      "y": 682,
+      "width": 41,
+      "height": 18,
+      "page": 2,
+      "name": "N jours après la signature"
+    },
+    {
+      "id": "55e64100-4377-42d1-8ac8-c58398d3d15f",
+      "type": "text",
+      "x": 56,
+      "y": 680,
+      "width": 51,
+      "height": 18,
+      "page": 2,
+      "name": "pourcentage du montant versé N jours après la signature"
+    },
+    {
+      "id": "dd6e608d-07b7-4427-8365-0470b83d82f1",
+      "type": "text",
+      "x": 61,
+      "y": 712,
+      "width": 43,
+      "height": 18,
+      "page": 2,
+      "name": "pourcentage du montant versé à la fin de la mission (solde)"
+    },
+    {
+      "id": "db929d3b-f5b4-418d-a350-275518caa8b3",
+      "type": "text",
+      "x": 326,
+      "y": 99,
+      "width": 76,
+      "height": 18,
+      "page": 3,
+      "name": "mode de paiement des sommes"
+    },
+    {
+      "id": "7f946eda-cc77-49aa-95ba-07b60106c826",
+      "type": "text",
+      "x": 279,
+      "y": 347,
+      "width": 121,
+      "height": 18,
+      "page": 3,
+      "name": "nom du correspondant CNIL du prestataire"
+    },
+    {
+      "id": "7d212fe1-43d1-45ec-948a-ea45647b9f76",
+      "type": "text",
+      "x": 71,
+      "y": 190,
+      "width": 272,
+      "height": 18,
+      "page": 4,
+      "name": "nom du tribunal du prestataire"
+    },
+    {
+      "id": "bcc07b9e-213c-4dcd-a1ac-a601e7b75b8d",
+      "type": "text",
+      "x": 112,
+      "y": 221,
+      "width": 177,
+      "height": 18,
+      "page": 4,
+      "name": "lieu d'établissement du contrat"
+    },
+    {
+      "id": "3e08f72e-92f6-4c8e-896a-6b16df27aec2",
+      "type": "text",
+      "x": 89,
+      "y": 244,
+      "width": 177,
+      "height": 18,
+      "page": 4,
+      "name": "date d'établissement du contrat"
+    }
+  ]

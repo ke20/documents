@@ -1,0 +1,82 @@
+[
+    {
+        "id": "4f056441-b8b0-464b-8d1e-cefe30d57135",
+        "type": "text",
+        "x": 115,
+        "y": 206,
+        "width": 264,
+        "height": 18,
+        "page": 1,
+        "name": "nom de naissance employeur"
+    },
+    {
+        "id": "c27ae651-a851-423f-9e03-6a86f257ba68",
+        "type": "text",
+        "x": 120,
+        "y": 387,
+        "width": 264,
+        "height": 18,
+        "page": 1,
+        "name": "nom de naissance salarié"
+    },
+    {
+        "id": "4d7950de-5405-42af-b0d0-e2d08fc6c302",
+        "type": "text",
+        "x": 162,
+        "y": 154,
+        "width": 264,
+        "height": 18,
+        "page": 2,
+        "name": "durée période essai"
+    },
+    {
+        "id": "37ffa070-c90d-4b45-89ea-5a4089b90202",
+        "type": "checkbox",
+        "x": 28,
+        "y": 548,
+        "width": 24,
+        "height": 24,
+        "page": 4,
+        "name": "repos hebdomadaire choix 1"
+    },
+    {
+        "id": "9dfdf492-a240-4079-971d-99872fc51658",
+        "type": "checkbox",
+        "x": 30,
+        "y": 582,
+        "width": 24,
+        "height": 24,
+        "page": 4,
+        "name": "repos hebdomadaire choix 2"
+    },
+    {
+        "id": "ba730383-2f3b-4a5c-b15c-d5b5ab8f4d61",
+        "type": "checkbox",
+        "x": 28,
+        "y": 688,
+        "width": 24,
+        "height": 24,
+        "page": 5,
+        "name": "récupération des heures supplémentaires choix 1"
+    },
+    {
+        "id": "d10b396b-d76d-4341-a751-966c76262041",
+        "type": "checkbox",
+        "x": 23,
+        "y": 718,
+        "width": 24,
+        "height": 24,
+        "page": 5,
+        "name": "récupération des heures supplémentaires choix 2"
+    },
+    {
+        "id": "872fc3be-4d99-4e03-a8bf-95375c1ada29",
+        "type": "signature",
+        "x": 328,
+        "y": 381,
+        "width": 184,
+        "height": 80,
+        "page": 7,
+        "name": "signature du salarié"
+      }
+]

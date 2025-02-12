@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e77944b8-681a-4366-8301-992dd5c8ec4b",
+    "type": "signature",
+    "x": 357,
+    "y": 403,
+    "width": 184,
+    "height": 80,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "3beb3e13-5d63-4ce6-ab2e-ca7c5ae6c7b9",
+    "type": "text",
+    "x": 491,
+    "y": 154,
+    "width": 24,
+    "height": 18,
+    "page": 1,
+    "name": "Lieu"
+  },
+  {
+    "id": "610be288-ee8b-4440-bd56-4cb65e450dd7",
+    "type": "text",
+    "x": 520,
+    "y": 154,
+    "width": 24,
+    "height": 18,
+    "page": 1,
+    "name": "Date"
+  }
+]

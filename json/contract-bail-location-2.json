@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "fc0d0a54-2b67-4676-92ff-c88fb3406ad1",
+    "type": "signature",
+    "x": 29,
+    "y": 622,
+    "width": 184,
+    "height": 80,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "e10d4c90-4b63-48d7-ab34-a32fc6b39459",
+    "type": "mention",
+    "x": 32,
+    "y": 607,
+    "width": 185,
+    "height": 15,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "d743a0fe-6e7d-4c92-a2d5-4992477d7349",
+    "type": "signature",
+    "x": 359,
+    "y": 622,
+    "width": 184,
+    "height": 80,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "eac9207e-a2ef-4813-865a-45c881293aa4",
+    "type": "mention",
+    "x": 359,
+    "y": 606,
+    "width": 183,
+    "height": 15,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "c2d78e37-e7fd-4939-a2c6-1bba18d28f39",
+    "type": "text",
+    "x": 161,
+    "y": 534,
+    "width": 188,
+    "height": 18,
+    "page": 6,
+    "name": "Lieu"
+  },
+  {
+    "id": "b79a3a19-9e28-4fba-8615-96a9a3342bbd",
+    "type": "text",
+    "x": 61,
+    "y": 533,
+    "width": 24,
+    "height": 18,
+    "page": 6,
+    "name": "Jour"
+  },
+  {
+    "id": "9e2637a3-49ca-4d4f-82ad-d65216866a9c",
+    "type": "text",
+    "x": 91,
+    "y": 533,
+    "width": 24,
+    "height": 18,
+    "page": 6,
+    "name": "Mois"
+  },
+  {
+    "id": "0e1854aa-850c-4377-a911-bc92c685f3d0",
+    "type": "text",
+    "x": 120,
+    "y": 534,
+    "width": 24,
+    "height": 18,
+    "page": 6,
+    "name": "Année"
+  },
+  {
+    "id": "f36b6a57-73c1-45a2-93e5-9e45790a7225",
+    "type": "checkbox",
+    "x": 38,
+    "y": 210,
+    "width": 17,
+    "height": 17,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "e5fd247c-b78d-420e-b022-5bbdfe061992",
+    "type": "checkbox",
+    "x": 38,
+    "y": 241,
+    "width": 17,
+    "height": 17,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "7fb1b44c-d645-4885-bb5f-3b756f8b58d7",
+    "type": "checkbox",
+    "x": 40,
+    "y": 401,
+    "width": 16,
+    "height": 16,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "e001b613-af2c-46bd-b0a4-1e93ca37bf04",
+    "type": "checkbox",
+    "x": 40,
+    "y": 432,
+    "width": 17,
+    "height": 17,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "2a073931-750f-49b1-8e99-233b7353be96",
+    "type": "checkbox",
+    "x": 40,
+    "y": 464,
+    "width": 15,
+    "height": 15,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "31da2720-f460-42db-a511-904fe5eddba5",
+    "type": "checkbox",
+    "x": 40,
+    "y": 487,
+    "width": 15,
+    "height": 15,
+    "page": 6,
+    "name": ""
+  },
+  {
+    "id": "63511087-f9f8-4358-a447-aade9ba3f627",
+    "type": "text",
+    "x": 21,
+    "y": 105,
+    "width": 544,
+    "height": 18,
+    "page": 6,
+    "name": "Condition particulière"
+  },
+  {
+    "id": "5f149fa8-e88b-4fd3-8191-998eda2a125f",
+    "type": "text",
+    "x": 21,
+    "y": 123,
+    "width": 545,
+    "height": 18,
+    "page": 6,
+    "name": "Condition particulière"
+  },
+  {
+    "id": "9d643358-0c2c-4478-817f-018934fd30f9",
+    "type": "text",
+    "x": 21,
+    "y": 142,
+    "width": 547,
+    "height": 18,
+    "page": 6,
+    "name": "Condition particulière"
+  },
+  {
+    "id": "82ccf351-c7c1-423a-bda7-49ae09629e2a",
+    "type": "text",
+    "x": 310,
+    "y": 43,
+    "width": 247,
+    "height": 18,
+    "page": 6,
+    "name": "Montant"
+  },
+  {
+    "id": "7bf29863-7e6d-481e-94c3-4cfd6c5abf31",
+    "type": "text",
+    "x": 22,
+    "y": 807,
+    "width": 538,
+    "height": 18,
+    "page": 5,
+    "name": "Détail de la prestation et montant"
+  },
+  {
+    "id": "60cf0f7b-f053-46b4-85f7-cb570401113c",
+    "type": "text",
+    "x": 22,
+    "y": 743,
+    "width": 540,
+    "height": 18,
+    "page": 5,
+    "name": "Détails de la prestation et condition de rémunération"
+  },
+  {
+    "id": "d9c5eaf3-fe95-403b-b3fb-0cae2e37506b",
+    "type": "text",
+    "x": 293,
+    "y": 709,
+    "width": 269,
+    "height": 18,
+    "page": 5,
+    "name": "Montant des honoraires"
+  },
+  {
+    "id": "1c9220af-9aa1-4fea-b52b-45185775961a",
+    "type": "text",
+    "x": 21,
+    "y": 678,
+    "width": 541,
+    "height": 18,
+    "page": 5,
+    "name": "Détails des prestations réalisées et montant des honoraires"
+  },
+  {
+    "id": "428de140-00ca-4a1f-ac3e-257094a849b6",
+    "type": "text",
+    "x": 21,
+    "y": 584,
+    "width": 55,
+    "height": 18,
+    "page": 5,
+    "name": "Montant du plafond des honoraires"
+  },
+  {
+    "id": "523c3476-28ed-4799-92bb-a44297811e66",
+    "type": "text",
+    "x": 173,
+    "y": 552,
+    "width": 66,
+    "height": 18,
+    "page": 5,
+    "name": "Montant du plafond des honoraires"
+  },
+  {
+    "id": "d5daf074-d066-4504-9d3e-bbea65b89c89",
+    "type": "text",
+    "x": 510,
+    "y": 81,
+    "width": 55,
+    "height": 18,
+    "page": 5,
+    "name": "Montant dépôt de garantit"
+  },
+  {
+    "id": "1ed88b88-8f4b-4d24-9b2a-8441bea6f274",
+    "type": "text",
+    "x": 103,
+    "y": 98,
+    "width": 348,
+    "height": 18,
+    "page": 5,
+    "name": "Montant en toute lettre"
+  },
+  {
+    "id": "aa9a46c9-0221-45fa-a29e-0aec38875488",
+    "type": "text",
+    "x": 282,
+    "y": 177,
+    "width": 282,
+    "height": 18,
+    "page": 1,
+    "name": "Nom du bailleur"
+  },
+  {
+    "id": "3229a8b2-cf1d-434f-958e-cabe447aa2b3",
+    "type": "text",
+    "x": 252,
+    "y": 193,
+    "width": 312,
+    "height": 18,
+    "page": 1,
+    "name": "Adresse du bailleur"
+  },
+  {
+    "id": "15d195b9-438f-4428-a0eb-d5b5bcca503a",
+    "type": "text",
+    "x": 238,
+    "y": 301,
+    "width": 319,
+    "height": 18,
+    "page": 1,
+    "name": "Email du bailleur"
+  },
+  {
+    "id": "490c81e3-5cd6-42b5-87c7-8e4b8f457134",
+    "type": "text",
+    "x": 244,
+    "y": 362,
+    "width": 324,
+    "height": 18,
+    "page": 1,
+    "name": "Nom du mandataire"
+  },
+  {
+    "id": "d624ab5a-825a-43ca-8606-2d45e1c168d9",
+    "type": "text",
+    "x": 209,
+    "y": 378,
+    "width": 359,
+    "height": 18,
+    "page": 1,
+    "name": "Adresse du mandataire"
+  },
+  {
+    "id": "f60a27a6-02b5-4f3e-a637-e48981696003",
+    "type": "text",
+    "x": 240,
+    "y": 394,
+    "width": 327,
+    "height": 18,
+    "page": 1,
+    "name": "Activité du mandataire"
+  },
+  {
+    "id": "f8b6ecae-5b74-49cc-b249-8b12bc500389",
+    "type": "text",
+    "x": 379,
+    "y": 410,
+    "width": 188,
+    "height": 18,
+    "page": 1,
+    "name": "Numéro et lieu de la carte professionnelle"
+  },
+  {
+    "id": "542cfa80-a5bb-4863-955e-9cedaeedc547",
+    "type": "text",
+    "x": 204,
+    "y": 425,
+    "width": 363,
+    "height": 18,
+    "page": 1,
+    "name": "Nom et adresse du garant"
+  },
+  {
+    "id": "c7891d6d-2676-4e5b-ac62-762876eb7ead",
+    "type": "text",
+    "x": 213,
+    "y": 442,
+    "width": 353,
+    "height": 19,
+    "page": 1,
+    "name": "Nom et prénom du locataire"
+  },
+  {
+    "id": "8d257f14-7a38-4357-bd94-7ab3107f698d",
+    "type": "text",
+    "x": 320,
+    "y": 458,
+    "width": 247,
+    "height": 18,
+    "page": 1,
+    "name": "Nom et prénom du second locataire"
+  },
+  {
+    "id": "51003e4a-682d-4bbd-9925-ac07cba86510",
+    "type": "text",
+    "x": 262,
+    "y": 474,
+    "width": 305,
+    "height": 18,
+    "page": 1,
+    "name": "Email du locataire"
+  },
+  {
+    "id": "977fc66d-6e12-491a-8202-9027e90ef975",
+    "type": "text",
+    "x": 282,
+    "y": 489,
+    "width": 285,
+    "height": 18,
+    "page": 1,
+    "name": "Email du second locataire"
+  },
+  {
+    "id": "534cd72a-4082-43f2-b161-b375eaadef12",
+    "type": "text",
+    "x": 187,
+    "y": 623,
+    "width": 377,
+    "height": 18,
+    "page": 1,
+    "name": "Adresse du logement"
+  },
+  {
+    "id": "a01932e7-a396-461b-b119-fd0a067994c5",
+    "type": "text",
+    "x": 240,
+    "y": 637,
+    "width": 324,
+    "height": 18,
+    "page": 1,
+    "name": "Bâtiment, escalier, étage, porte"
+  },
+  {
+    "id": "3a0be088-e7c6-4870-b376-6b16b97bbb52",
+    "type": "text",
+    "x": 196,
+    "y": 652,
+    "width": 110,
+    "height": 18,
+    "page": 1,
+    "name": "Identifiant fiscal"
+  },
+  {
+    "id": "b8c8478e-1b10-4989-a4b5-a17aa2d1da7a",
+    "type": "checkbox",
+    "x": 60,
+    "y": 41,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "12710e18-0fed-42f5-b8cf-76b0da0a0834",
+    "type": "checkbox",
+    "x": 147,
+    "y": 41,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "4eed27c8-d505-4d19-bfd0-dfc3f8aa309b",
+    "type": "checkbox",
+    "x": 300,
+    "y": 41,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "d30595ab-2513-48a4-9c1f-d45070ba6ef6",
+    "type": "checkbox",
+    "x": 60,
+    "y": 65,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "e4402a37-5c45-4660-9643-4a3a0ccb4ff3",
+    "type": "checkbox",
+    "x": 56,
+    "y": 100,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "d68ff343-0ac6-4888-becc-c0a175d98a90",
+    "type": "checkbox",
+    "x": 56,
+    "y": 122,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "3c410ce6-1027-429d-9e97-8eea43f03837",
+    "type": "checkbox",
+    "x": 147,
+    "y": 65,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "340c5d6a-38f3-448d-b651-abab42da83b5",
+    "type": "checkbox",
+    "x": 158,
+    "y": 100,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "af379c2e-5072-438d-ab78-686e6acf45c2",
+    "type": "checkbox",
+    "x": 374,
+    "y": 40,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "032eb3b5-54ee-4f9e-88f3-3deeb7e90e31",
+    "type": "checkbox",
+    "x": 445,
+    "y": 40,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "c821c340-01d2-4b17-9bed-1939a69a89d3",
+    "type": "checkbox",
+    "x": 56,
+    "y": 579,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "a29f6497-dfda-4331-a699-dff6c5969717",
+    "type": "checkbox",
+    "x": 56,
+    "y": 627,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "fd2afa4a-a4e9-454b-9272-a2ba76515d2b",
+    "type": "checkbox",
+    "x": 56,
+    "y": 647,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "460afff9-639e-46df-a913-f096e01afe5e",
+    "type": "checkbox",
+    "x": 170,
+    "y": 579,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "9cced664-03f8-4a5f-ba54-ccf962cbde46",
+    "type": "checkbox",
+    "x": 291,
+    "y": 579,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "624bd493-3b6b-473b-bbe0-a234a094ccda",
+    "type": "checkbox",
+    "x": 412,
+    "y": 579,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "fc5b941c-72f7-4549-95ea-4c0d4fb04b98",
+    "type": "checkbox",
+    "x": 147,
+    "y": 627,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "fddcd3e6-4c20-4803-863a-b587b0eb2fe3",
+    "type": "checkbox",
+    "x": 147,
+    "y": 647,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "5ff151e5-ca41-41b8-bf72-a10383b8b2a6",
+    "type": "checkbox",
+    "x": 222,
+    "y": 625,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "0b5533f4-ce06-448d-a30a-36e7ff10382f",
+    "type": "checkbox",
+    "x": 236,
+    "y": 647,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "bf04c5e5-6328-4786-a741-c0b9af32a936",
+    "type": "checkbox",
+    "x": 320,
+    "y": 625,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "784bcecf-8749-4cb3-a30e-b602d9152383",
+    "type": "checkbox",
+    "x": 477,
+    "y": 627,
+    "width": 16,
+    "height": 16,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "f70256c2-a87d-44fe-815d-a1b83f7ce956",
+    "type": "checkbox",
+    "x": 118,
+    "y": 525,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "27b7e21b-65c3-475b-9641-ca9d77889a1c",
+    "type": "checkbox",
+    "x": 118,
+    "y": 543,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "b0f10cdf-d5fb-4a65-ae59-fd38cf188f04",
+    "type": "checkbox",
+    "x": 118,
+    "y": 608,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "1e9760fb-0a54-4202-b32d-6057db3be8de",
+    "type": "checkbox",
+    "x": 118,
+    "y": 629,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "4f146654-72c4-428c-a411-0eaa0811423a",
+    "type": "checkbox",
+    "x": 118,
+    "y": 647,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "db52a5a5-3f02-4e1a-86e2-a11ce6e443a3",
+    "type": "checkbox",
+    "x": 56,
+    "y": 731,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "b9334b5d-440f-43ce-be60-2b4d05df50c5",
+    "type": "checkbox",
+    "x": 56,
+    "y": 748,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "5e64aa79-125e-4f8a-b046-de1ae562313d",
+    "type": "checkbox",
+    "x": 56,
+    "y": 770,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "b3d6b36d-b639-41bb-80d9-debdc91f06c4",
+    "type": "checkbox",
+    "x": 56,
+    "y": 93,
+    "width": 16,
+    "height": 16,
+    "page": 4,
+    "name": ""
+  },
+  {
+    "id": "5fa20e7b-1727-4fa6-9b1a-97ad9aa3ae9f",
+    "type": "checkbox",
+    "x": 216,
+    "y": 94,
+    "width": 16,
+    "height": 16,
+    "page": 4,
+    "name": ""
+  },
+  {
+    "id": "7f980747-cad7-4763-acd8-ffdaad88d290",
+    "type": "checkbox",
+    "x": 371,
+    "y": 93,
+    "width": 16,
+    "height": 16,
+    "page": 4,
+    "name": ""
+  },
+  {
+    "id": "f3ffe6f8-75b4-4373-90a4-4dd527498516",
+    "type": "radiobox",
+    "x": 56,
+    "y": 686,
+    "width": 16,
+    "height": 16,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "2f206a20-5677-46d1-88d0-600811d499d7",
+    "type": "radiobox",
+    "x": 176,
+    "y": 686,
+    "width": 16,
+    "height": 16,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "786898ec-d028-4b6d-90c8-1f47c3a6a994",
+    "type": "radiobox",
+    "x": 334,
+    "y": 686,
+    "width": 17,
+    "height": 17,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "4665197b-a308-4895-bcac-b90652ccbb5d",
+    "type": "radiobox",
+    "x": 444,
+    "y": 686,
+    "width": 16,
+    "height": 16,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "411f3ebe-3fd0-4f70-9393-b5942a109dfc",
+    "type": "text",
+    "x": 200,
+    "y": 750,
+    "width": 363,
+    "height": 18,
+    "page": 1,
+    "name": "Surface habitable"
+  },
+  {
+    "id": "8798fc3e-765f-419d-a56a-fceeab738978",
+    "type": "text",
+    "x": 215,
+    "y": 765,
+    "width": 349,
+    "height": 18,
+    "page": 1,
+    "name": "Nombre de pièces"
+  },
+  {
+    "id": "3ea20a18-6a40-4cfb-aa18-6ca4cdfa2207",
+    "type": "text",
+    "x": 236,
+    "y": 63,
+    "width": 299,
+    "height": 18,
+    "page": 2,
+    "name": "Autre partie du logement"
+  },
+  {
+    "id": "5d4beb35-f104-4495-8612-0b7a08ab7d85",
+    "type": "text",
+    "x": 310,
+    "y": 99,
+    "width": 257,
+    "height": 18,
+    "page": 2,
+    "name": "Installations sanitaires"
+  },
+  {
+    "id": "f7c833a7-ffd4-43ca-b584-a8d344949359",
+    "type": "text",
+    "x": 156,
+    "y": 121,
+    "width": 410,
+    "height": 18,
+    "page": 2,
+    "name": "Autre équipement du logement"
+  },
+  {
+    "id": "afed5570-bb4b-4c7b-98b0-90a7571f7113",
+    "type": "text",
+    "x": 138,
+    "y": 204,
+    "width": 435,
+    "height": 18,
+    "page": 2,
+    "name": "Modalité de répartition de la consommation du chauffage"
+  },
+  {
+    "id": "935c30e8-452c-4a89-bee8-da07ada8d931",
+    "type": "text",
+    "x": 151,
+    "y": 286,
+    "width": 422,
+    "height": 18,
+    "page": 2,
+    "name": "Modalité de répartition de la consommation de l'eau chaude"
+  },
+  {
+    "id": "5b5b46bd-4b1e-4cca-8086-941529deba10",
+    "type": "text",
+    "x": 301,
+    "y": 305,
+    "width": 141,
+    "height": 18,
+    "page": 2,
+    "name": "Niveau de performance énergétique"
+  },
+  {
+    "id": "f86a82cf-646b-49a5-a9d8-b986bc260b19",
+    "type": "text",
+    "x": 132,
+    "y": 575,
+    "width": 24,
+    "height": 18,
+    "page": 2,
+    "name": "Cave"
+  },
+  {
+    "id": "28d2ce03-91c5-4a7b-acbe-04ae30ea9eda",
+    "type": "text",
+    "x": 252,
+    "y": 575,
+    "width": 24,
+    "height": 18,
+    "page": 2,
+    "name": "Parking"
+  },
+  {
+    "id": "4792cd34-e303-45bc-be68-5a4162582e39",
+    "type": "text",
+    "x": 374,
+    "y": 576,
+    "width": 24,
+    "height": 18,
+    "page": 2,
+    "name": "Garage"
+  },
+  {
+    "id": "af468b9f-dc0a-45e9-953a-779551f7a98f",
+    "type": "text",
+    "x": 473,
+    "y": 576,
+    "width": 80,
+    "height": 18,
+    "page": 2,
+    "name": "Autre local"
+  },
+  {
+    "id": "20cc33a2-649f-41a6-b614-b854cfeef357",
+    "type": "text",
+    "x": 434,
+    "y": 649,
+    "width": 132,
+    "height": 18,
+    "page": 2,
+    "name": "Autre prestation"
+  },
+  {
+    "id": "8585526f-c4b7-4671-8369-d4f6adbc585b",
+    "type": "text",
+    "x": 22,
+    "y": 709,
+    "width": 543,
+    "height": 18,
+    "page": 2,
+    "name": "Equipement technologique"
+  },
+  {
+    "id": "d02b2fd2-fddc-458f-a020-6383fd98cf7c",
+    "type": "text",
+    "x": 31,
+    "y": 130,
+    "width": 533,
+    "height": 18,
+    "page": 3,
+    "name": "Durée du contrat"
+  },
+  {
+    "id": "76ce364b-7117-487a-ada3-d53df8ee1712",
+    "type": "text",
+    "x": 198,
+    "y": 91,
+    "width": 24,
+    "height": 18,
+    "page": 3,
+    "name": "Date de prise d'effet du contrat - Jour"
+  },
+  {
+    "id": "a962511f-3c2d-4a8d-a746-f472f7f2e521",
+    "type": "text",
+    "x": 219,
+    "y": 91,
+    "width": 24,
+    "height": 18,
+    "page": 3,
+    "name": "Date de prise d'effet du contrat - Mois"
+  },
+  {
+    "id": "30ae879f-f60f-4cf9-bc33-c009ae200349",
+    "type": "text",
+    "x": 240,
+    "y": 91,
+    "width": 24,
+    "height": 18,
+    "page": 3,
+    "name": "Date de prise d'effet du contrat - Année"
+  },
+  {
+    "id": "3fdb1aa0-07df-4f65-bf3e-8f18180441b8",
+    "type": "text",
+    "x": 175,
+    "y": 747,
+    "width": 24,
+    "height": 18,
+    "page": 3,
+    "name": "Date de versement - Jour"
+  },
+  {
+    "id": "380a65b7-63d3-45e6-b71e-c0c770e8cd3e",
+    "type": "text",
+    "x": 196,
+    "y": 747,
+    "width": 24,
+    "height": 18,
+    "page": 3,
+    "name": "Date de versement - Mois"
+  },
+  {
+    "id": "0c112bce-0c1a-43d3-b3a5-dc9d1ba01fe1",
+    "type": "text",
+    "x": 217,
+    "y": 747,
+    "width": 24,
+    "height": 18,
+    "page": 3,
+    "name": "Date de versement - Année"
+  },
+  {
+    "id": "042f07e1-4c70-4030-8416-2948b534b42e",
+    "type": "text",
+    "x": 251,
+    "y": 767,
+    "width": 24,
+    "height": 18,
+    "page": 3,
+    "name": "Date de la dernière révision - Jour"
+  },
+  {
+    "id": "92e777ae-69cf-4327-9dde-e456034ff3a1",
+    "type": "text",
+    "x": 272,
+    "y": 767,
+    "width": 24,
+    "height": 18,
+    "page": 3,
+    "name": "Date de la dernière révision - Mois"
+  },
+  {
+    "id": "fa232da4-ccd8-4ece-9724-8326592d4e14",
+    "type": "text",
+    "x": 293,
+    "y": 767,
+    "width": 24,
+    "height": 18,
+    "page": 3,
+    "name": "Date de la dernière révision - Année"
+  },
+  {
+    "id": "78a22397-bb5f-4ed9-bac3-cfad09e9c9f3",
+    "type": "text",
+    "x": 204,
+    "y": 14,
+    "width": 24,
+    "height": 18,
+    "page": 4,
+    "name": "Date de révision annuel - Mois"
+  },
+  {
+    "id": "f8add9fc-919a-4cd6-b877-66bbed01ab58",
+    "type": "text",
+    "x": 221,
+    "y": 14,
+    "width": 24,
+    "height": 18,
+    "page": 4,
+    "name": "Date de révision annuel - Année"
+  },
+  {
+    "id": "0abedbac-0ee7-423b-9822-d528a63b33a3",
+    "type": "text",
+    "x": 157,
+    "y": 357,
+    "width": 96,
+    "height": 18,
+    "page": 3,
+    "name": "Montant du loyer mensuel"
+  },
+  {
+    "id": "ae436c30-8d07-4af4-affb-59d84b6cd0d9",
+    "type": "text",
+    "x": 271,
+    "y": 524,
+    "width": 115,
+    "height": 18,
+    "page": 3,
+    "name": "Montant du loyer de référence"
+  },
+  {
+    "id": "9bf6313a-5b5c-4556-bc99-055750442270",
+    "type": "text",
+    "x": 299,
+    "y": 542,
+    "width": 125,
+    "height": 18,
+    "page": 3,
+    "name": "Montant du loyer de référence majoré"
+  },
+  {
+    "id": "c6acfc47-4939-4c1e-82c2-040864c888ed",
+    "type": "text",
+    "x": 468,
+    "y": 608,
+    "width": 88,
+    "height": 18,
+    "page": 3,
+    "name": "Montant du loyer de base"
+  },
+  {
+    "id": "49c741dc-f632-45a2-bbaf-45da72f47780",
+    "type": "text",
+    "x": 283,
+    "y": 627,
+    "width": 99,
+    "height": 18,
+    "page": 3,
+    "name": "Montant du complément de loyer"
+  },
+  {
+    "id": "3052ad2a-3c06-4bdd-8719-26f30bf85753",
+    "type": "text",
+    "x": 433,
+    "y": 646,
+    "width": 125,
+    "height": 18,
+    "page": 3,
+    "name": "Caractéristiques du logement"
+  },
+  {
+    "id": "cb979a89-6368-4dc0-8207-7643d845d5e6",
+    "type": "text",
+    "x": 386,
+    "y": 728,
+    "width": 112,
+    "height": 18,
+    "page": 3,
+    "name": "Montant du dernier loyer acquitté par l'ancien locataire"
+  },
+  {
+    "id": "04e77f64-8f88-467b-ae63-680bd73afab9",
+    "type": "text",
+    "x": 376,
+    "y": 29,
+    "width": 181,
+    "height": 18,
+    "page": 4,
+    "name": "Date ou trimestre de référence"
+  },
+  {
+    "id": "ea813c7f-c989-4c23-8c55-ed4433ff006e",
+    "type": "text",
+    "x": 233,
+    "y": 728,
+    "width": 201,
+    "height": 18,
+    "page": 4,
+    "name": "Montant et durée de la diminution du loyer"
+  },
+  {
+    "id": "b7e8dae7-841e-491e-97ce-8afaa75e2dfd",
+    "type": "text",
+    "x": 376,
+    "y": 123,
+    "width": 109,
+    "height": 18,
+    "page": 4,
+    "name": "Montant des provisions sur charges"
+  },
+  {
+    "id": "bc080271-e0a5-4804-8b1a-136083a49d8d",
+    "type": "text",
+    "x": 475,
+    "y": 194,
+    "width": 71,
+    "height": 18,
+    "page": 4,
+    "name": "Montant annuel récupérable par l'assurance"
+  },
+  {
+    "id": "1cd006e0-c4c8-4b75-92a6-9fda9a364a20",
+    "type": "text",
+    "x": 311,
+    "y": 234,
+    "width": 89,
+    "height": 18,
+    "page": 4,
+    "name": "Montant récupérable par douzième"
+  },
+  {
+    "id": "b7142972-638a-409d-bd60-d98ae67deb5c",
+    "type": "text",
+    "x": 276,
+    "y": 297,
+    "width": 67,
+    "height": 18,
+    "page": 4,
+    "name": "Jour du mois"
+  },
+  {
+    "id": "45234410-4e48-458b-8b80-74417e7ef259",
+    "type": "text",
+    "x": 256,
+    "y": 311,
+    "width": 87,
+    "height": 18,
+    "page": 4,
+    "name": "Montant dû mensuel"
+  },
+  {
+    "id": "8351ae3b-b40e-419a-81cc-ea42dda826b9",
+    "type": "text",
+    "x": 57,
+    "y": 326,
+    "width": 98,
+    "height": 18,
+    "page": 4,
+    "name": "Loyer"
+  },
+  {
+    "id": "9e99f281-2802-43e6-9ff5-dc0065384bf1",
+    "type": "text",
+    "x": 132,
+    "y": 344,
+    "width": 95,
+    "height": 18,
+    "page": 4,
+    "name": "Charges récupérables"
+  },
+  {
+    "id": "92ba4a11-addf-429e-a40b-0090d47cfb30",
+    "type": "text",
+    "x": 371,
+    "y": 358,
+    "width": 95,
+    "height": 18,
+    "page": 4,
+    "name": "Assurance récupérables pour le compte des colocataires"
+  },
+  {
+    "id": "8cf44487-d32c-48a3-8f71-c9d3e5d2045b",
+    "type": "text",
+    "x": 252,
+    "y": 409,
+    "width": 81,
+    "height": 18,
+    "page": 4,
+    "name": "Montant de la hausse de loyer mensuel"
+  },
+  {
+    "id": "1c7fa294-1ba5-4538-8142-8d93965cf864",
+    "type": "text",
+    "x": 27,
+    "y": 527,
+    "width": 536,
+    "height": 18,
+    "page": 4,
+    "name": "Montant et nature des travaux"
+  },
+  {
+    "id": "c6795dd5-a574-4c28-a054-1d9bd80f3c1d",
+    "type": "text",
+    "x": 27,
+    "y": 546,
+    "width": 536,
+    "height": 19,
+    "page": 4,
+    "name": "Montant et nature des travaux"
+  },
+  {
+    "id": "04ef921a-01a2-4d20-a8dc-4a5c40024e44",
+    "type": "text",
+    "x": 27,
+    "y": 576,
+    "width": 536,
+    "height": 18,
+    "page": 4,
+    "name": "Montant des travaux d'amélioration"
+  },
+  {
+    "id": "33a16b7f-e887-4214-8d8a-d0e9e1a841d2",
+    "type": "text",
+    "x": 24,
+    "y": 646,
+    "width": 536,
+    "height": 18,
+    "page": 4,
+    "name": "Nature des travaux"
+  },
+  {
+    "id": "0c30d286-b762-4b6f-81ed-7f150f2e4513",
+    "type": "text",
+    "x": 176,
+    "y": 661,
+    "width": 76,
+    "height": 18,
+    "page": 4,
+    "name": "Montant de la majoration du loyer"
+  },
+  {
+    "id": "820b3917-85e2-4c9b-b7e1-18300333f18f",
+    "type": "text",
+    "x": 122,
+    "y": 714,
+    "width": 447,
+    "height": 18,
+    "page": 4,
+    "name": ""
+  },
+  {
+    "id": "731a7fe3-5ffb-4cac-9ebb-aa814d4c8045",
+    "type": "text",
+    "x": 21,
+    "y": 763,
+    "width": 549,
+    "height": 18,
+    "page": 4,
+    "name": "Modalité de dédommagement"
+  },
+  {
+    "id": "d78bdf97-e96f-486d-bf33-624175ce3886",
+    "type": "radiobox",
+    "x": 59,
+    "y": 228,
+    "width": 16,
+    "height": 16,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "499226a7-7323-480f-ba2a-f1701e93832d",
+    "type": "radiobox",
+    "x": 181,
+    "y": 229,
+    "width": 16,
+    "height": 16,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "c66e7ba5-2eab-4042-b6a0-a7f3716d1949",
+    "type": "radiobox",
+    "x": 59,
+    "y": 279,
+    "width": 18,
+    "height": 18,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "7892e7df-4f24-44d0-8a44-15bba913062e",
+    "type": "radiobox",
+    "x": 114,
+    "y": 279,
+    "width": 18,
+    "height": 18,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "58b72d45-e5dc-4a38-904a-41f61d12e0c3",
+    "type": "radiobox",
+    "x": 148,
+    "y": 727,
+    "width": 16,
+    "height": 16,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "fbbe63e1-f633-48f0-a523-abbe05a8ce08",
+    "type": "radiobox",
+    "x": 365,
+    "y": 727,
+    "width": 16,
+    "height": 16,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "90006e33-5eca-463c-876e-dbc1e7920e9a",
+    "type": "radiobox",
+    "x": 254,
+    "y": 725,
+    "width": 17,
+    "height": 17,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "c1d8f0f3-798b-43f3-9d11-77ba08800b54",
+    "type": "radiobox",
+    "x": 59,
+    "y": 727,
+    "width": 16,
+    "height": 16,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "59861ba5-97b5-4a88-bba4-f1a62a5c607f",
+    "type": "radiobox",
+    "x": 469,
+    "y": 727,
+    "width": 16,
+    "height": 16,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "c0093b29-4b93-4457-af18-ae8d1ff0191b",
+    "type": "radiobox",
+    "x": 56,
+    "y": 163,
+    "width": 17,
+    "height": 17,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "8cc0dfcd-8d07-411c-affb-e087c3515922",
+    "type": "radiobox",
+    "x": 147,
+    "y": 161,
+    "width": 17,
+    "height": 17,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "6ee3c012-0d0c-4c55-8632-1fb0f1b627f5",
+    "type": "radiobox",
+    "x": 146,
+    "y": 248,
+    "width": 17,
+    "height": 17,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "781f7fe1-59ae-4105-b918-a33fa3c56f39",
+    "type": "radiobox",
+    "x": 55,
+    "y": 247,
+    "width": 17,
+    "height": 17,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "e94feddf-0d8e-41e0-a78e-2ef24847ba79",
+    "type": "radiobox",
+    "x": 194,
+    "y": 532,
+    "width": 17,
+    "height": 17,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "db87bcc1-99e7-4e04-9868-4bcd987b784c",
+    "type": "radiobox",
+    "x": 57,
+    "y": 532,
+    "width": 17,
+    "height": 17,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "63991b29-0aeb-40a3-a3a2-43d3e50197ec",
+    "type": "radiobox",
+    "x": 56,
+    "y": 473,
+    "width": 17,
+    "height": 17,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "faae6fd7-52d3-4d59-9a41-dd3975e9dae0",
+    "type": "radiobox",
+    "x": 118,
+    "y": 473,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "c32c539c-3a0f-4b99-acae-b942e019c88a",
+    "type": "radiobox",
+    "x": 56,
+    "y": 522,
+    "width": 17,
+    "height": 17,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "71ef97e4-2c46-4cd3-a8da-733b33286c39",
+    "type": "radiobox",
+    "x": 56,
+    "y": 566,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "6970dc88-a3e1-4d2b-806d-82ae5ee04aa6",
+    "type": "radiobox",
+    "x": 56,
+    "y": 669,
+    "width": 16,
+    "height": 16,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "be4f7a67-0468-40fc-91b3-5e02f3eaf5a0",
+    "type": "radiobox",
+    "x": 55,
+    "y": 608,
+    "width": 17,
+    "height": 17,
+    "page": 3,
+    "name": ""
+  },
+  {
+    "id": "6d9bd7fb-3af8-4ca3-839b-f0240da0fd2d",
+    "type": "radiobox",
+    "x": 52,
+    "y": 197,
+    "width": 17,
+    "height": 17,
+    "page": 4,
+    "name": ""
+  },
+  {
+    "id": "39f1dcfb-61fa-4fb3-867a-f05329dbdef9",
+    "type": "radiobox",
+    "x": 52,
+    "y": 256,
+    "width": 17,
+    "height": 17,
+    "page": 4,
+    "name": ""
+  },
+  {
+    "id": "17f0c4c1-aa36-4e43-8a85-63d27ed9e132",
+    "type": "radiobox",
+    "x": 128,
+    "y": 430,
+    "width": 17,
+    "height": 17,
+    "page": 4,
+    "name": ""
+  },
+  {
+    "id": "5a5b5cc1-09c1-4409-aaf8-17ee4311c875",
+    "type": "radiobox",
+    "x": 53,
+    "y": 431,
+    "width": 17,
+    "height": 17,
+    "page": 4,
+    "name": ""
+  }
+]

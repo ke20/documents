@@ -1,0 +1,82 @@
+[
+  {
+    "id": "e0d63cd9-2031-4695-9ca6-4a9a0193a398",
+    "type": "signature",
+    "x": 372,
+    "y": 558,
+    "width": 184,
+    "height": 80,
+    "page": 1,
+    "name": ""
+  },
+  {
+    "id": "584bca68-a97d-4df2-98a3-a795146414c8",
+    "type": "text",
+    "x": 224,
+    "y": 285,
+    "width": 276,
+    "height": 18,
+    "page": 1,
+    "name": "Prénom, nom et fonction"
+  },
+  {
+    "id": "b4ac4e7f-f74d-4685-94cd-2bf99ebc1538",
+    "type": "text",
+    "x": 133,
+    "y": 300,
+    "width": 64,
+    "height": 18,
+    "page": 1,
+    "name": "Projet"
+  },
+  {
+    "id": "7f7c540e-aa4c-418f-b515-8455e1fed448",
+    "type": "text",
+    "x": 196,
+    "y": 401,
+    "width": 157,
+    "height": 18,
+    "page": 1,
+    "name": "Activités et montant"
+  },
+  {
+    "id": "9892a972-775c-4a1a-9ec1-db3fa548ccb2",
+    "type": "signature",
+    "x": 374,
+    "y": 560,
+    "width": 184,
+    "height": 80,
+    "page": 2,
+    "name": ""
+  },
+  {
+    "id": "7df2871b-487a-4e4c-97cb-277f1f356698",
+    "type": "text",
+    "x": 230,
+    "y": 334,
+    "width": 325,
+    "height": 18,
+    "page": 2,
+    "name": "Prénom, nom et fonction"
+  },
+  {
+    "id": "4b7d7e68-4c9c-4e07-ae5a-b2ef65d986a2",
+    "type": "text",
+    "x": 201,
+    "y": 348,
+    "width": 63,
+    "height": 18,
+    "page": 2,
+    "name": "Projet"
+  },
+  {
+    "id": "40a69c4b-0b77-4a25-bcba-f74598dc85c3",
+    "type": "text",
+    "x": 189,
+    "y": 421,
+    "width": 219,
+    "height": 18,
+    "page": 2,
+    "name": "Activités et montant"
+  }
+]
